@@ -1,0 +1,11 @@
+from django.shortcuts import render_to_response
+from django.template import RequestContext
+from django.views.generic import TemplateView
+
+def hello(request):
+	return render_to_response('hello.html',RequestContext(request))
+
+
+
+
+	

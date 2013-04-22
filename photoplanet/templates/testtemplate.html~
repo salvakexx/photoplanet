@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+#header
+{
+ background-color:#0000ff;
+}
+
+</style>
+
+</head>
+<body>
+<div id="sitecontainer">
+
+<div id="header">
+Hello
+</div>
+
+<div id="content">
+World!
+
+</div>
+
+</div>
+</body>
+</html>
